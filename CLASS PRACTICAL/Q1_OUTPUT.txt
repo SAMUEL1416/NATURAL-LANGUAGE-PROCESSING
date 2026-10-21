@@ -1,0 +1,7 @@
+Python 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+======== RESTART: C:/Users/Samuel/Desktop/NLP/Q1_Regular Expressions.py ========
+First email found: student@gmail.com
+All email addresses: ['student@gmail.com', 'admin@college.edu']
+Beginning match: Contact
